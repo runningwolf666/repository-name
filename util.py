@@ -3,7 +3,7 @@
 请在Python3下运行此程序='Please run this program with Python3'
 import re
 
-# http://stackoverflow.com/questions/2545532/python-analog-of-natsort-function-sort-a-list-using-a-natural-order-algorithm
+# From: http://stackoverflow.com/questions/2545532/python-analog-of-natsort-function-sort-a-list-using-a-natural-order-algorithm
 def natural_key(string_):
     """
     See http://www.codinghorror.com/blog/archives/001018.html
